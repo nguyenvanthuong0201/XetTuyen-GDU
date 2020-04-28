@@ -20,7 +20,7 @@ namespace XetTuyen_GDU
             Application.SetCompatibleTextRenderingDefault(false);
 
             BonusSkins.Register();
-            Application.Run(new frmAdminHome());
+            Application.Run(new frmHome());
         }
     }
 }
